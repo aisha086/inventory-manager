@@ -212,7 +212,7 @@ export default function Home() {
             p={2}
             mb={2}
           >
-            <Typography variant="h4" align="center" color="#433D8B">Items</Typography>
+            <Typography variant="h3" align="center" color="#433D8B">Items</Typography>
           </Box>
           <Stack spacing={2}>
           
